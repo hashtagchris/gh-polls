@@ -13,7 +13,7 @@ import (
 	"github.com/segmentio/go-env"
 	"github.com/tj/go/http/response"
 
-	"github.com/apex/gh-polls/internal/poll"
+	"github.com/hashtagchris/gh-polls/internal/poll"
 )
 
 func init() {

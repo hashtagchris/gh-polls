@@ -7,8 +7,8 @@ import (
 
 	"github.com/tj/kingpin"
 
-	"github.com/apex/gh-polls/internal/cli"
-	"github.com/apex/gh-polls/internal/client"
+	"github.com/hashtagchris/gh-polls/internal/cli"
+	"github.com/hashtagchris/gh-polls/internal/client"
 )
 
 // Config.

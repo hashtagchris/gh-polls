@@ -17,7 +17,7 @@ What do they look like? The poll above is live, click one out and give it a try!
 Via `go get`:
 
 ```
-$ go get github.com/apex/gh-polls/cmd/polls
+$ go get github.com/hashtagchris/gh-polls/cmd/polls
 ```
 
 Then create your own poll with `polls new`, the markdown is copied to your clipboard.
@@ -54,7 +54,7 @@ GitHub poll API statistics powered by [Up](https://github.com/apex/up).
 
 ---
 
-[![GoDoc](https://godoc.org/github.com/apex/gh-polls?status.svg)](https://godoc.org/github.com/apex/gh-polls)
+[![GoDoc](https://godoc.org/github.com/hashtagchris/gh-polls?status.svg)](https://godoc.org/github.com/hashtagchris/gh-polls)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-experimental-orange.svg)
 
